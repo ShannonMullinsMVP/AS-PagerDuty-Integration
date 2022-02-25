@@ -126,10 +126,8 @@ Click the "View full details" button in the bottom right-hand corner.
 
 In the middle window, scroll to the right and click "View playbooks".
 
-![Nav3](Images/nav3.png)
+![Nav2](Images/nav2.png)
 
 Find the AS-PagerDuty-Integration playbook and click run.
-
-![Nav4](Images/nav4.png)
 
 The playbook will create a PagerDuty incident with the related Azure Sentinel incident information and post a comment to the Azure Sentinel incident with the PagerDuty incident link.
