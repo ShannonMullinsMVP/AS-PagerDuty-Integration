@@ -64,7 +64,7 @@ https://github.com/Arbala-Security/AS-PagerDuty-Integration
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FArbala-Security%2FAS-PagerDuty-Integration%2Fmain%2Fazuredeploy.json" target="_blank">
     <img src="https://aka.ms/deploytoazurebutton""/>
 </a>
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FArbala-Security%2FAS-PagerDuty-Integration%2Fmaster%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FArbala-Security%2FAS-PagerDuty-Integration%2Fmain%2Fazuredeploy.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"/>
 </a>                                                 
 
