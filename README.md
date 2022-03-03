@@ -10,6 +10,7 @@ For any technical questions, please contact info@accelerynt.com
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FArbala-Security%2FAS-PagerDuty-Integration%2Fmain%2Fazuredeploy.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"/>
 </a>    
+                                                                                                                                     
 
 This playbook is intended to be run from an Azure Sentinel alert. It will create a PagerDuty incident with the related Azure Sentinel incident information and post a comment to the Azure Sentinel incident with the PagerDuty incident link.
 
